@@ -1,6 +1,6 @@
 # direct_call_plus
 
-A simple plugin to call number directly from app, without going to phone dialer. Permission request is handled by plugin.
+Plugin to call number directly from your application, without going to phone dialer.
 
 ## Usage
 
