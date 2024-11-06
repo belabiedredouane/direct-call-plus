@@ -1,0 +1,28 @@
+name: direct_call_plus
+description: Simple flutter plugin to call a number directly, without going to phone dialer, from app
+version: 1.0.0
+homepage: https://github.com/belabiedredouane
+repository: https://github.com/belabiedredouane/direct-call-plus
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_lints: 1.0.4
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.belabied.directcallplus
+        pluginClass: DirectCallPlusPlugin
+      ios:
+        pluginClass: DirectCallPlusPlugin

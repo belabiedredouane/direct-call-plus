@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - direct_call_plus (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - direct_call_plus (from `.symlinks/plugins/direct_call_plus/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  direct_call_plus:
+    :path: ".symlinks/plugins/direct_call_plus/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  direct_call_plus: bd2ffd297f371a8a6c7bfbba0196964ffe3c4358
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
