@@ -6,7 +6,7 @@ Plugin to call number directly from your application, without going to phone dia
 
 Add dependency to pubspec.yaml file
 ```
-direct_call_plus: ^1.0.0
+direct_call_plus: ^1.0.1
 ```
 
 ### Android
@@ -39,8 +39,13 @@ void main() {
 }
 
 _callNumber() async{
-  const number = '08592119XXXX'; //set the number here
+  const number = '07xxxxxx44'; //set the number here
   bool res = await DirectCallPlus.makeCall(number);
 }
 ```
+
+## Maintainers
+
+- [Belabied Redouane](https://github.com/belabiedredouane)
+
 
