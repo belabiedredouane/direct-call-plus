@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:direct_call_plus/direct_call_plus.dart';
 
 void main() => runApp(const MyApp());
 
+/// MyApp
 class MyApp extends StatefulWidget {
+  /// MyApp contructor
   const MyApp({Key? key}) : super(key: key);
 
   @override
