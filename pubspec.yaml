@@ -1,6 +1,6 @@
 name: direct_call_plus
 description: Plugin to call a number directly, without going to phone dialer.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/belabiedredouane
 repository: https://github.com/belabiedredouane/direct-call-plus
 
