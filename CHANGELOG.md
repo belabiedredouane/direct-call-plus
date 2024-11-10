@@ -1,3 +1,9 @@
+## 1.0.4
+- Plugin example.
+
+## 1.0.3
+- Dart formatter.
+
 ## 1.0.2
 - Provide API elements documentation.
 - Static analysis.

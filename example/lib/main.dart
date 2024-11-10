@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
   @override
   void initState() {
     super.initState();
-    _numberCtrl.text = "085921191121";
+    _numberCtrl.text = "213441256987";
   }
 
   @override
@@ -26,7 +26,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Plugin example app'),
+          title: const Text('Direct call example app'),
         ),
         body: Column(
           children: <Widget>[
